@@ -5,7 +5,7 @@
 .
 ├── README.md           # description
 ├── assignment.ipynb    # problem solution
-├── requirements.txt    # contains needed packages
+├── requirements.txt    # contains packages needed to install
 └── result.png          # final plot
 ```
 
