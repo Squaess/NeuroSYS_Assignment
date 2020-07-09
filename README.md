@@ -9,7 +9,7 @@
 └── result.png          # final plot
 ```
 
-If you want to run `assignment.ipynb` file, you'll need:
+If you want to run [assignment.ipynb](./asssignment.ipynb) file, you'll need:
 1. Database file: `database_1.db`, located in the same directory as `assignment.ipynb` file.
 2. Python virtual environment with needed packages installed. They are listed in `requirements.txt` file.
 
