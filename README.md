@@ -1,7 +1,16 @@
 # NeuroSYS assignment
 
+## Repository structure:
+```
+.
+├── README.md           # description
+├── assignment.ipynb    # problem solution
+├── requirements.txt    # contains needed packages
+├── result.png          # final plot
+```
+
 If you want to run `assignment.ipynb` file, you'll need:
-1. Database file: `database_1.db`  
+1. Database file: `database_1.db`, located in the same directory as `assignment.ipynb` file.
 2. Python virtual environment with needed packages installed. They are listed in `requirements.txt` file.
 
 To create virtual environment using pip:
