@@ -6,7 +6,7 @@
 ├── README.md           # description
 ├── assignment.ipynb    # problem solution
 ├── requirements.txt    # contains needed packages
-├── result.png          # final plot
+└── result.png          # final plot
 ```
 
 If you want to run `assignment.ipynb` file, you'll need:
