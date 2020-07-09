@@ -1,0 +1,4 @@
+pandas>=1.0.5
+jupyterlab>=2.1.5
+tables>=3.6.1
+matplotlib>=3.2.2
